@@ -22,7 +22,7 @@ function Card() {
           <div className='card card-compact bg-base-100 shadow-xl' key={index}>
             <figure>
               <Image
-                src={'/' + project.image}
+                src={`/${project.image}`}
                 alt='code'
                 width={500}
                 height={500}
