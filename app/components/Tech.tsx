@@ -20,7 +20,7 @@ const Tech = () => {
           {technologies.map((technology) => (
             <div className='w-28 h-28' key={technology.name}>
               <Image
-                src={'/' + technology.icon}
+                src={`/tech/${technology.icon}`}
                 width={60}
                 height={60}
                 quality={75}

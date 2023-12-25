@@ -3,71 +3,71 @@
 const technologies = [
   {
     name: "HTML 5",
-    icon: './html.png',
+    icon: 'html.png',
   },
   {
     name: "CSS 3",
-    icon: './css.png',
+    icon: 'css.png',
   },
   {
     name: "Tailwind CSS",
-    icon: './tailwind.png',
+    icon: 'tailwind.png',
   },
   {
     name: "JavaScript",
-    icon: './javascript.png',
+    icon: 'javascript.png',
   },
   {
     name: "TypeScript",
-    icon: './typescript.png',
+    icon: 'typescript.png',
   },
   {
     name: "Next JS",
-    icon: './next-js.png',
+    icon: 'next-js.png',
   },
   {
     name: "React JS",
-    icon: './reactjs.png',
+    icon: 'reactjs.png',
   },
   {
     name: "Python",
-    icon: './python.png',
+    icon: 'python.png',
   },
 
 
   {
     name: "Node JS",
-    icon: './nodejs.png',
+    icon: 'nodejs.png',
   },
   {
     name: "Loopback 4",
-    icon: './loopback.png',
+    icon: 'loopback.png',
   },
   {
     name: "MongoDB",
-    icon: './mongodb.png',
+    icon: 'mongodb.png',
   },
   {
     name: "MySql",
-    icon: './mysql.png',
+    icon: 'mysql.png',
   },
   {
     name: "Prisma",
-    icon: './prisma.png',
+    icon: 'prisma.png',
   },
 
   {
     name: "git",
-    icon: './git.png',
+    icon: 'git.png',
   },
 
   {
     name: "docker",
-    icon: './docker.png',
+    icon: 'docker.png',
   },
   {
     name: "WordPress",
-    icon: './wordpress.png',
+    icon: 'wordpress.png',
   },
 ];
 
@@ -157,7 +157,7 @@ const projects = [
   {
     name: "Realestate",
     description:
-      "I completed realestate website project for my client.",
+      "I completed realestate website project for my client",
     tags: [
       {
         name: "react",
@@ -172,7 +172,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './realestate.png',
+    image: 'realestate.png',
     source_code_link: "https://realestate-qavb3ot52-hari1275.vercel.app/",
   },
   {
@@ -193,7 +193,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './const.png',
+    image: 'const.png',
     source_code_link: "https://play.google.com/store/apps/details?id=com.ketoo.ketooconstructions&hl=en-IN",
   },
   {
@@ -214,7 +214,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './whole.png',
+    image: 'whole.png',
     source_code_link: "https://play.google.com/store/apps/details?id=com.nature.naturezon&hl=en-IN",
   },
   {
@@ -235,7 +235,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './expanse.png',
+    image: 'expanse.png',
     source_code_link: "https://expanse-managing.netlify.app/",
   },
   {
@@ -256,7 +256,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './covid.png',
+    image: 'covid.png',
     source_code_link: "https://corona-virus-live-tracker.netlify.app/",
   },
 
