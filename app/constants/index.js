@@ -155,6 +155,27 @@ const technologies = [
 
 const projects = [
   {
+    name: "Realestate",
+    description:
+      "I completed realestate website project for my client.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: './projects/realestate.png',
+    source_code_link: "https://realestate-qavb3ot52-hari1275.vercel.app/",
+  },
+  {
     name: "Construction based e-commerce Website with Mobile App",
     description:
       "I completed my second client project for a startup construction e-commerce website specializing in wholesale home materials. This website primarily deals with raw materials for homes.",
