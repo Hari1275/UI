@@ -3,7 +3,9 @@ import React from 'react';
 function Experience() {
   return (
     <>
-      <h5 className='text-2xl font-semibold py-4'>EXPERIENCE</h5>
+      <h5 className='text-2xl font-semibold py-4 text-[#42446E] text-center'>
+        EXPERIENCE
+      </h5>
 
       <div className='card card-compact py-4'>
         <div className='card-body'>

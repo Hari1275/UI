@@ -1,5 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
+
 const Navbar = () => {
   return (
     <div className='navbar bg-base-100 sticky top-0 z-10'>
@@ -26,37 +28,42 @@ const Navbar = () => {
             className='menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52'
           >
             <li>
-              <Link href='/projects'>Projects</Link>
+              <Link href='/projects'>PROJECTS</Link>
             </li>
             <li>
-              <Link href='/experiences'>Experience</Link>
+              <Link href='/experiences'>EXPERIENCE</Link>
             </li>
             <li>
-              <Link href='/skills'>Skills</Link>
+              <Link href='/skills'>SKILLS</Link>
             </li>
           </ul>
         </div>
 
-        <Link className='btn btn-ghost normal-case text-xl' href='/'>
-          Hari
+        <Link href='/'>
+          <Image
+            src={'/HARIPRASAD_K.svg'}
+            alt='hari'
+            width={125}
+            height={125}
+          />
         </Link>
       </div>
       <div className='navbar-center hidden lg:flex'>
         <ul className='menu menu-horizontal px-1'>
           <li>
-            <Link href='/projects'>Projects</Link>
+            <Link href='/projects'>PROJECTS</Link>
           </li>
           <li>
-            <Link href='/experiences'>Experience</Link>
+            <Link href='/experiences'>EXPERIENCE</Link>
           </li>
           <li>
-            <Link href='/skills'>Skills</Link>
+            <Link href='/skills'>SKILLS</Link>
           </li>
         </ul>
       </div>
       <div className='navbar-end'>
         <Link className='btn' href='/contacts'>
-          Contact
+          CONTACT
         </Link>
       </div>
     </div>

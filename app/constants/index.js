@@ -65,6 +65,10 @@ const technologies = [
     name: "docker",
     icon: './tech/docker.png',
   },
+  {
+    name: "WordPress",
+    icon: './tech/wordpress.png',
+  },
 ];
 
 // const experiences = [
