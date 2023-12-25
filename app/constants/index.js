@@ -56,14 +56,14 @@ const technologies = [
     icon: 'prisma.png',
   },
 
-  {
-    name: "git",
-    icon: 'git.png',
-  },
 
   {
-    name: "docker",
-    icon: 'docker.png',
+    name: "Angular",
+    icon: 'angular.png',
+  },
+  {
+    name: "Flutter",
+    icon: 'flutter.png',
   },
   {
     name: "WordPress",
