@@ -1,11 +1,11 @@
 import './globals.css';
 import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
+// import { Inter } from 'next/font/google';
 import { Roboto } from 'next/font/google';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
-const inter = Inter({ subsets: ['latin'] });
+// const inter = Inter({ subsets: ['latin'] });
 const roboto = Roboto({
   weight: ['400', '700'],
   style: ['normal', 'italic'],

@@ -3,71 +3,71 @@
 const technologies = [
   {
     name: "HTML 5",
-    icon: './tech/html.png',
+    icon: './html.png',
   },
   {
     name: "CSS 3",
-    icon: './tech/css.png',
+    icon: './css.png',
   },
   {
     name: "Tailwind CSS",
-    icon: './tech/tailwind.png',
+    icon: './tailwind.png',
   },
   {
     name: "JavaScript",
-    icon: './tech/javascript.png',
+    icon: './javascript.png',
   },
   {
     name: "TypeScript",
-    icon: './tech/typescript.png',
+    icon: './typescript.png',
   },
   {
     name: "Next JS",
-    icon: './tech/next-js.png',
+    icon: './next-js.png',
   },
   {
     name: "React JS",
-    icon: './tech/reactjs.png',
+    icon: './reactjs.png',
   },
   {
     name: "Python",
-    icon: './tech/python.png',
+    icon: './python.png',
   },
 
 
   {
     name: "Node JS",
-    icon: './tech/nodejs.png',
+    icon: './nodejs.png',
   },
   {
     name: "Loopback 4",
-    icon: './tech/loopback.png',
+    icon: './loopback.png',
   },
   {
     name: "MongoDB",
-    icon: './tech/mongodb.png',
+    icon: './mongodb.png',
   },
   {
     name: "MySql",
-    icon: './tech/mysql.png',
+    icon: './mysql.png',
   },
   {
     name: "Prisma",
-    icon: './tech/prisma.png',
+    icon: './prisma.png',
   },
 
   {
     name: "git",
-    icon: './tech/git.png',
+    icon: './git.png',
   },
 
   {
     name: "docker",
-    icon: './tech/docker.png',
+    icon: './docker.png',
   },
   {
     name: "WordPress",
-    icon: './tech/wordpress.png',
+    icon: './wordpress.png',
   },
 ];
 
@@ -172,7 +172,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './projects/realestate.png',
+    image: './realestate.png',
     source_code_link: "https://realestate-qavb3ot52-hari1275.vercel.app/",
   },
   {
@@ -193,7 +193,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './projects/const.png',
+    image: './const.png',
     source_code_link: "https://play.google.com/store/apps/details?id=com.ketoo.ketooconstructions&hl=en-IN",
   },
   {
@@ -214,7 +214,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './projects/whole.png',
+    image: './whole.png',
     source_code_link: "https://play.google.com/store/apps/details?id=com.nature.naturezon&hl=en-IN",
   },
   {
@@ -235,7 +235,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './projects/expanse.png',
+    image: './expanse.png',
     source_code_link: "https://expanse-managing.netlify.app/",
   },
   {
@@ -256,7 +256,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: './projects/covid.png',
+    image: './covid.png',
     source_code_link: "https://corona-virus-live-tracker.netlify.app/",
   },
 
