@@ -40,12 +40,7 @@ const Navbar = () => {
         </div>
 
         <Link href='/'>
-          <Image
-            src={'/HARIPRASAD_K.svg'}
-            alt='hari'
-            width={125}
-            height={125}
-          />
+          <Image src={'/hari.svg'} alt='hari' width={200} height={200} />
         </Link>
       </div>
       <div className='navbar-center hidden lg:flex'>

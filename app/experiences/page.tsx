@@ -4,7 +4,9 @@ import Experience from '../components/Experience';
 function page() {
   return (
     <>
-      <h5 className='text-2xl font-semibold py-4'>EXPERIENCE</h5>
+      <h5 className='text-2xl font-semibold py-4 p-4 z-0 md:pt-4 md:pb-4'>
+        EXPERIENCE
+      </h5>
 
       <div className='card card-compact py-4'>
         <div className='card-body'>

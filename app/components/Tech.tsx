@@ -9,7 +9,7 @@ import { technologies } from '../constants';
 const Tech = () => {
   return (
     <>
-      <h5 className='text-2xl font-semibold pt-4 pb-2 text-center text-[#42446E]'>
+      <h5 className='text-2xl font-semibold pt-4 pb-2 text-center text-[#42446E] p-4 z-0 md:pt-4 md:pb-4'>
         MY TECH STACK
       </h5>
       <p className='text-md text-center pb-4 '>
